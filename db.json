@@ -1,16 +1,16 @@
 {
   "sales": [
-    { "group": "Jan",  "month": "January", "quantity": 98, "notes": "None" },
-    { "group": "Feb",  "month": "February", "quantity": 90, "notes": "None"  },
-    { "group": "Mar",  "month": "March", "quantity": 310,"notes": "None"  },
-    { "group": "Apr",  "month": "April", "quantity": 192,"notes": "None"  },
-    { "group": "May",  "month": "May", "quantity": 312,"notes": "None"  },
-	{ "group": "Jun",  "month": "June", "quantity": 98 ,"notes": "None" },
-    { "group": "Jul",  "month": "July", "quantity": 98, "notes": "None"  },
-    { "group": "Aug",  "month": "August", "quantity": 350,"notes": "None"  },
-    { "group": "Sep",  "month": "September", "quantity": 430, "notes": "None"  },
-    { "group": "Oct", "month": "October", "quantity":  400, "notes": "None"  },
-    { "group": "Nov", "month": "November", "quantity": 150, "notes": "None"  },
-    { "group": "Dec", "month": "December", "quantity": 200,"notes": "None"  }
+    { "id": "Jan", "group": "Jan",  "month": "January", "quantity": 98, "notes": "None" },
+    { "id": "Feb", "group": "Feb",  "month": "February", "quantity": 90, "notes": "None"  },
+    { "id": "Mar", "group": "Mar",  "month": "March", "quantity": 310,"notes": "None"  },
+    { "id": "Apr", "group": "Apr",  "month": "April", "quantity": 192,"notes": "None"  },
+    { "id": "May", "group": "May",  "month": "May", "quantity": 312,"notes": "None"  },
+	{ "id": "Jun", "group": "Jun",  "month": "June", "quantity": 98 ,"notes": "None" },
+    { "id": "Jul", "group": "Jul",  "month": "July", "quantity": 98, "notes": "None"  },
+    { "id": "Aug", "group": "Aug",  "month": "August", "quantity": 350,"notes": "None"  },
+    { "id": "Sep", "group": "Sep",  "month": "September", "quantity": 430, "notes": "None"  },
+    { "id": "Oct", "group": "Oct", "month": "October", "quantity":  400, "notes": "None"  },
+    { "id": "Nov", "group": "Nov", "month": "November", "quantity": 150, "notes": "None"  },
+    { "id": "Dec", "group": "Dec", "month": "December", "quantity": 200,"notes": "None"  }
   ]
 }
