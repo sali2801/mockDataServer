@@ -8,7 +8,7 @@
 	{ "id": "Jun",  "month": "June", "quantity": 98 ,"notes": "None" },
     { "id": "Jul",  "month": "July", "quantity": 98, "notes": "None"  },
     { "id": "Aug",  "month": "August", "quantity": 350,"notes": "None"  },
-    { "id": "Sep",  "month": "September", "quantity": 420, "notes": "None"  },
+    { "id": "Sep",  "month": "September", "quantity": 430, "notes": "None"  },
     { "id": "Oct", "month": "October", "quantity":  400, "notes": "None"  },
     { "id": "Nov", "month": "November", "quantity": 150, "notes": "None"  },
     { "id": "Dec", "month": "December", "quantity": 200,"notes": "None"  }
