@@ -27,7 +27,7 @@
       {
          "id":"May",
          "month":"May",
-         "quantity":312,
+         "quantity":98,
          "notes":"None"
       },
       {
@@ -39,13 +39,13 @@
       {
          "id":"Jul",
          "month":"July",
-         "quantity":98,
+         "quantity":312,
          "notes":"None"
       },
       {
          "id":"Aug",
          "month":"August",
-         "quantity":350,
+         "quantity":200,
          "notes":"None"
       },
       {
